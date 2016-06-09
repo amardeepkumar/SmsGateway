@@ -1,0 +1,1 @@
+This project is to understand the message receiver and make API call based on users selection.
